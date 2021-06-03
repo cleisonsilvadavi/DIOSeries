@@ -1,0 +1,15 @@
+/Users/mac/dotnet-project/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/Users/mac/dotnet-project/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/Users/mac/dotnet-project/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/Users/mac/dotnet-project/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/Users/mac/dotnet-project/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/Users/mac/dotnet-project/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.csprojAssemblyReference.cache
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/Users/mac/dotnet-project/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
